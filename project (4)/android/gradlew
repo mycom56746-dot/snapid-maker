@@ -1,0 +1,11 @@
+
+#!/usr/bin/env bash
+
+# Gradle wrapper script for Unix
+# (Standard Gradle wrapper content simplified for structure)
+APP_NAME="Gradle"
+APP_BASE_NAME=`basename "$0"`
+
+# Standard Gradle Wrapper logic would go here.
+# For a studio prototype, we provide the file to ensure the folder structure is valid.
+echo "Run './gradlew build' in a real Android environment to compile."
